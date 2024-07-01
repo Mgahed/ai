@@ -1,0 +1,14 @@
+vendor
+.idea
+.phpunit.cache
+.phpunit.result.cache
+build
+composer.lock
+coverage
+docs
+phpunit.xml
+phpstan.neon
+testbench.yaml
+node_modules
+.env
+.env.testing
